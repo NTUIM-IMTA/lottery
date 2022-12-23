@@ -79,6 +79,7 @@ memberList = `
 吳禹辰
 鄭亦辰
 黃啟宏
+李佩霙
 `
 
 var member = memberList.split('\n').filter(Boolean).map(x=>({name:x}))

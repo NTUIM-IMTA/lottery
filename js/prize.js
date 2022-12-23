@@ -1,5 +1,6 @@
 //level;name;amount
 const prizeList = `
+系友獎;磁鐵;5
 系友獎;手機支架;5
 系友獎;鍵盤清潔刷;2
 系友獎;中世紀鐘樓機械模型;1
